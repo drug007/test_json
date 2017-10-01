@@ -1,0 +1,6 @@
+name "test_json"
+description "A minimal D application."
+authors "drug"
+copyright "Copyright © 2017, drug"
+license "proprietary"
+dependency "asdf" version="~>0.1.4"
